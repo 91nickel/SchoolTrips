@@ -1,0 +1,28 @@
+Array
+(
+    [response] => Array
+        (
+            [auth] => 1
+            [accounts] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 13832928
+                            [name] => Экскурсии для школьников
+                            [subdomain] => schooltrip5
+                            [language] => ru
+                            [timezone] => Europe/Moscow
+                        )
+
+                )
+
+            [user] => Array
+                (
+                    [id] => 1301478
+                    [language] => ru
+                )
+
+            [server_time] => 1527083334
+        )
+
+)

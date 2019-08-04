@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^$ /calendar/ [L]
+RewriteRule ^new$ /order/calendar5/ [L]
+RewriteRule ^list$ /order/calendar5/list.php [L]
+RewriteRule ^event/([-a-zA-Z0-9_]+)/? /order/calendar5/single.php?exc_f=$1 [L]
+RewriteRule ^special/? /order/calendar5/caramel.php?exc_f=$1 [L]
+RewriteRule ^photo/([-a-zA-Z0-9_]+)/? /order/calendar5/photo.php?id=$1 [L]

@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^event/([-a-zA-Z0-9_]+)/? single.php?exc_f=$1 [L]

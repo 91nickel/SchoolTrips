@@ -1,0 +1,226 @@
+Array
+(
+    [id] => 22259756
+    [name] => Лид из i2crm
+    [responsible_user_id] => 3654387
+    [created_by] => 1301478
+    [created_at] => 1563427994
+    [updated_at] => 1563518237
+    [account_id] => 13832928
+    [pipeline_id] => 679696
+    [status_id] => 15562216
+    [is_deleted] => 
+    [main_contact] => Array
+        (
+            [id] => 37309132
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=37309132
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [group_id] => 0
+    [company] => Array
+        (
+        )
+
+    [closed_at] => 0
+    [closest_task_at] => 1563569940
+    [tags] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 283037
+                    [name] => i2crm
+                )
+
+        )
+
+    [custom_fields] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 103878
+                    [name] => Количество детей
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1
+                                )
+
+                        )
+
+                    [is_system] => 
+                )
+
+            [1] => Array
+                (
+                    [id] => 118758
+                    [name] => Взрсл. за деньги
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1
+                                )
+
+                        )
+
+                    [is_system] => 
+                )
+
+            [2] => Array
+                (
+                    [id] => 103924
+                    [name] => Дата экскурсии
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 2019-07-20 00:00:00
+                                )
+
+                        )
+
+                    [is_system] => 
+                )
+
+            [3] => Array
+                (
+                    [id] => 118724
+                    [name] => Время начала экскурсии
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 11:30
+                                )
+
+                        )
+
+                    [is_system] => 
+                )
+
+            [4] => Array
+                (
+                    [id] => 118760
+                    [name] => Стоимость с человека
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 1550
+                                )
+
+                        )
+
+                    [is_system] => 
+                )
+
+            [5] => Array
+                (
+                    [id] => 574181
+                    [name] => Название экскурсии
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => Палеонтологический музей - Как приручить динозавра?
+                                )
+
+                        )
+
+                    [is_system] => 
+                )
+
+            [6] => Array
+                (
+                    [id] => 600116
+                    [name] => Event ID
+                    [values] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [value] => 2176546
+                                )
+
+                        )
+
+                    [is_system] => 
+                )
+
+        )
+
+    [contacts] => Array
+        (
+            [id] => Array
+                (
+                    [0] => 37309132
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/contacts?id=37309132
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [catalog_elements] => Array
+        (
+            [id] => Array
+                (
+                    [0] => 2176546
+                )
+
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/catalog_elements?catalog_id=6687&id=2176546
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [sale] => 2100
+    [loss_reason_id] => 0
+    [pipeline] => Array
+        (
+            [id] => 679696
+            [_links] => Array
+                (
+                    [self] => Array
+                        (
+                            [href] => /api/v2/pipelines?id=679696
+                            [method] => get
+                        )
+
+                )
+
+        )
+
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => /api/v2/leads?id=22259756
+                    [method] => get
+                )
+
+        )
+
+)

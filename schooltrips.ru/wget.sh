@@ -1,0 +1,1 @@
+wget -O /dev/null http://dmitrybondar.ru/auto/schooltrip/yclients/cron.php

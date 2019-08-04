@@ -1,0 +1,88 @@
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+Undefined variable: email = /auto/schooltrip/rfibank/hook.php = 49
+Undefined variable: email = /auto/schooltrip/rfibank/hook.php = 71
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+Undefined variable: email = /auto/schooltrip/rfibank/hook.php = 49
+Undefined variable: email = /auto/schooltrip/rfibank/hook.php = 71
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+Undefined variable: email = /auto/schooltrip/rfibank/hook.php = 49
+Undefined variable: email = /auto/schooltrip/rfibank/hook.php = 71
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+Undefined variable: email = /auto/schooltrip/rfibank/hook.php = 49
+Undefined variable: email = /auto/schooltrip/rfibank/hook.php = 71
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24
+curl_setopt(): 12 is not a valid cURL handle resource = /auto/schooltrip/rfibank/amocrm_functions.php = 24

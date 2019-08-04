@@ -1,0 +1,26 @@
+Array
+(
+    [leads] => Array
+        (
+            [status] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 14433552
+                            [status_id] => 18855172
+                            [pipeline_id] => 679696
+                            [old_status_id] => 18829168
+                            [old_pipeline_id] => 679696
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [id] => 13832928
+            [subdomain] => schooltrip5
+        )
+
+)

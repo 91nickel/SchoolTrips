@@ -1,0 +1,301 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Lucida Grande",Helvetica,Arial,Verdana,sans-serif;
+    font-size: 14px;
+    background: url(img/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #333;
+    padding-top: 20px;
+    min-height: 800px;
+  }
+
+  #top {
+    background: #eee;
+    border-bottom: 1px solid #ddd;
+    padding: 0 10px;
+    line-height: 40px;
+    font-size: 12px;
+  }
+
+  #calendar {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 10px;
+  }
+
+  .fc-event{
+    cursor: pointer;
+  }
+
+  .fc-title{
+    white-space: normal;
+  }
+
+  body > p{
+    padding: 25px;
+    display: block;
+    max-width: 900px;
+    margin: 60px 70px 0 auto;
+    background: rgba(255,255,255,.8);
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+
+  .auth_page > p{
+    margin: 60px auto;
+  }
+
+  .auth_page .filter{
+    margin: 60px auto;
+  }
+
+  .filter{
+    padding: 20px;
+    display: block;
+    max-width: 900px;
+    margin: 0 70px 0 auto;
+    background: rgba(255,255,255,.8);
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+
+  .auth_wr{
+    max-width: 400px;
+  }
+
+  .filter form{
+    display: block;
+  }
+
+  .filter form > .text{
+    width: auto;
+  }
+
+  .filter form > *{
+    display: inline-block;
+    width: 252px;
+    margin: 0 5px;
+    border-radius: 5px;
+  }
+
+  #form .max{
+    padding: 10px 0;
+    margin: 0;
+    display: none;
+  }
+
+  .events .date, .events_exc .date{
+    margin: 40px 0;
+  }
+
+  .events .date .t, .events_exc .date .t{
+    padding: 5px;
+    max-width: 900px;
+    box-sizing: border-box;
+    font-size: 14px;
+    background: rgba(255,255,255,.5);
+    border-radius: 5px;
+  }
+
+  .events .event, .events_exc .event{
+    background: rgba(255,255,255,.8);
+    padding: 10px;
+    margin: 0 20px 20px 0;
+    width: 440px;
+    display: inline-block;
+    position: relative;
+    border-radius: 5px;
+    min-height: 130px;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all ease-in-out .15s;
+    vertical-align: top;
+  }
+
+  .events .event.empty{
+    opacity: .4;
+    cursor: default;
+  }
+
+  .events .event:hover{
+    opacity: .6;
+    transition: all ease-in-out .15s;
+  }
+
+  .events .event .title, .events_exc .event .title{
+    font-size: 15px;
+    padding-right: 120px;
+  }
+
+  .events .block, .events_exc .block{
+    max-width: 920px;
+    margin: 0 50px 0 auto;
+    font-size: 0;
+    padding-left:20px;
+  }
+
+  .events .time, .events .old, .events .price, .events .places, .events_exc .time, .events_exc .old, .events_exc .price, .events_exc .places{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: #00a651;
+    border-radius: 5px;
+    padding: 5px;
+    color: #fff;
+  }
+
+  .events .places, .events_exc .places{
+    top: 50px;
+    background: #FFB400;
+  }
+
+  .events .price, .events_exc .price{
+    top: auto;
+    bottom: 10px;
+    background: #f75aa9;
+  }
+
+  .events .old, .events_exc .old{
+    top: auto;
+    bottom: 10px;
+    right: auto;
+    left: 10px;
+    background: #3898EC;
+  }
+
+  .events_exc .cur, .events .cur, .events_exc .place, .events_exc .photo{
+    margin: 10px 0;
+    font-size: 12px;
+    background: #333;
+    padding: 5px;
+    border-radius: 3px;
+    color: #fff;
+  }
+
+  .events.abon .cur{
+    display: inline-block;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    margin: 0;
+  }
+
+  .events_exc img{
+    margin: 10px auto;
+    border-radius: 5px;
+    display: block;
+  }
+
+  .auth, .user{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    border-radius: 3px;
+    background: green;
+    z-index: 40;
+  }
+
+  .pay{
+    border-radius: 3px;
+    margin: 5px auto;
+    display: block;
+  }
+
+  .user{
+    right: 140px;
+    background: blue;
+    color: #fff;
+    padding: 10px;
+    display: none;
+  }
+
+  #auth_form > input{
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+
+  #auth_form > button{
+    margin: 0;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  #auth_form > button:last-child{
+    margin-bottom: 0;
+  }
+
+  .menu{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #333;
+    width: 150px;
+  }
+
+  .menu .el{
+    padding: 10px;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    margin: 10px 8px;
+    border-radius: 4px;
+    background: rgba(255,255,255,.3);
+    text-align: center;
+  }
+
+  .menu .sel{
+    background: rgba(255,55,255,.2);
+  }
+
+  .menu img{
+    width: 300px;
+    max-width: none;
+    margin-left: -85px;
+  }
+
+  .menu .el:hover{
+    background: rgba(255,255,255,.6);
+    text-decoration: none;
+  }
+
+  @media (max-width: 900px){
+    .filter form > *{
+      width: 100%;
+      display: block;
+      margin: 10px 0;
+    }
+
+    .events .date .t{
+      width: calc(100% - 20px);
+    }
+
+    .events .event, .events .event, .events_exc .event{
+      width: calc(100% - 20px);
+      box-sizing: border-box;
+    }
+
+    .menu{
+      position: relative;
+      margin-top: -20px;
+      padding-top: 60px;
+      width: 100%;
+    }
+
+    .menu img{
+      display: none;
+    }
+
+    body > p, .filter, .events .block, .events_exc .block{
+      margin: 20px auto;
+    }
+  }

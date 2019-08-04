@@ -1,0 +1,1 @@
+wget -O /dev/null http://nova-agency.ru/auto/schooltrip/excursions/calc.php

@@ -1,0 +1,37 @@
+Array
+(
+    [_links] => Array
+        (
+            [self] => Array
+                (
+                    [href] => /api/v2/leads
+                    [method] => post
+                )
+
+        )
+
+    [_embedded] => Array
+        (
+            [items] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 15115050
+                            [updated_at] => 1539596912
+                            [_links] => Array
+                                (
+                                    [self] => Array
+                                        (
+                                            [href] => /api/v2/leads?id=15115050
+                                            [method] => get
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

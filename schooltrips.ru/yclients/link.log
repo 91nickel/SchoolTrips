@@ -1,0 +1,48 @@
+Array
+(
+    [request] => Array
+        (
+            [links] => Array
+                (
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [from] => leads
+                                    [from_id] => 11956571
+                                    [to] => catalog_elements
+                                    [to_id] => 1907349
+                                    [to_catalog_id] => 6687
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [request] => Array
+        (
+            [links] => Array
+                (
+                    [link] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [from] => leads
+                                    [from_id] => 11972661
+                                    [to] => catalog_elements
+                                    [to_id] => 2011701
+                                    [to_catalog_id] => 6687
+                                )
+
+                        )
+
+                )
+
+        )
+
+)

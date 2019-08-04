@@ -1,0 +1,1 @@
+wget -b -O /dev/null http://nova-agency.ru/auto/schooltrip/dubles/get_contacts.php?offset=0&limit=20000

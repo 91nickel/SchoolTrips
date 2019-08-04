@@ -1,0 +1,1 @@
+wget http://dmitrybondar.ru/auto/schooltrip/managers_report/cron.php
